@@ -1,0 +1,12 @@
+server1,Database,MySql, 5.5
+server2,Database,MySql, 5.1
+server3,OS, Ubuntu,11.04
+server1,OS, Ubuntu,10.04
+server2,OS, Ubuntu,12.04
+server2,Language,Python, 2.6.3
+server1,Database,MySql, 5.5
+server2,Database,MySql, 5.1
+server3,OS, Ubuntu,11.04
+server1,OS, Ubuntu,10.04
+server2,OS, Ubuntu,12.04
+server2,Language,Python, 2.6.3
