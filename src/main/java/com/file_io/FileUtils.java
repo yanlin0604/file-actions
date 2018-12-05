@@ -15,7 +15,7 @@ import java.nio.channels.FileChannel;
  * File Manipulation Tool Class
  * @author Juanjuan
  */
-public class FileUtils {
+public class FileUtil {
 
 	private static final char UNIX_SEPARATOR = '/';
 
